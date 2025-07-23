@@ -5,7 +5,7 @@ A curated collection of my technical and professional certifications.
 
 ## 📊 Data Analytics
 
-- [Data Analytics Certificate – NIT Raipur]()  
+- [Data Analytics Certificate – NIT Raipur](https://github.com/MrunalNair/Certificates/blob/main/certificate-%20Octanet.pdf)  
   *Issued by National Institute of Technology, Raipur. Covered fundamentals of data analytics, data visualization, and hands-on tools like Excel and Python.*
 
 
