@@ -11,7 +11,7 @@ A curated collection of my technical and professional certifications.
 
 ## 🌐 Web Development
 
-- [Web Development Internship Certificate – Octanet Solutions Pvt. Ltd.]()  
+- [Web Development Internship Certificate – Octanet Solutions Pvt. Ltd.](https://github.com/MrunalNair/Certificates/blob/main/certificate-%20Octanet.pdf)  
   *Issued by Octanet Solutions. Focused on full-stack development including HTML, CSS, JavaScript, and project deployment.*
 
 
