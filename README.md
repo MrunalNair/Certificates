@@ -2,18 +2,6 @@
 
 A curated collection of my technical and professional certifications.
 
-## 🌐 ICAUC 2026 
-
-- [Web Development Internship Certificate – Octanet Solutions Pvt. Ltd.](https://github.com/MrunalNair/Certificates/blob/main/certificate-%20Octanet.pdf)  
-  *Issued by Octanet Solutions. Focused on full-stack development including HTML, CSS, JavaScript, and project deployment.*
-
-
-## 🌐 ANTIC 2025
-
-- [Web Development Internship Certificate – Octanet Solutions Pvt. Ltd.](https://github.com/MrunalNair/Certificates/blob/main/certificate-%20Octanet.pdf)  
-  *Issued by Octanet Solutions. Focused on full-stack development including HTML, CSS, JavaScript, and project deployment.*
-
-
 ## 📊 Data Analytics
 
 - [Data Analytics Certificate – NIT Raipur](https://github.com/MrunalNair/Certificates/blob/main/certificate-ML.pdf)  
@@ -24,10 +12,6 @@ A curated collection of my technical and professional certifications.
 
 - [Web Development Internship Certificate – Octanet Solutions Pvt. Ltd.](https://github.com/MrunalNair/Certificates/blob/main/certificate-%20Octanet.pdf)  
   *Issued by Octanet Solutions. Focused on full-stack development including HTML, CSS, JavaScript, and project deployment.*
-
-
-  
-
 
 ### 📁 Repository Structure
 
